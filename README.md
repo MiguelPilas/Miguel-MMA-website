@@ -1,2 +1,2 @@
 # Miguel-MMA-website
-Miguel´s favourite MMA fighter
+This is a website about my favourite MMA fighter, Ilia Topuria.
